@@ -1,0 +1,8 @@
+LOS 15 DE ABBY ADRIANA — DIGITAL PRO
+24 de octubre de 2026, 17:00 (Bolivia).
+Confirmaciones y dudas: +59173791143.
+Digital Pro: +59179352293.
+
+Subir todos los archivos de esta carpeta a la raíz del repositorio de GitHub Pages. No requiere instalación. index.html es la página principal. Mantener los nombres y la estructura.
+La música empieza al pulsar «Abrir mi invitación». Los controles flotantes permiten pausar la música y los destellos. Las preferencias de movimiento reducido del dispositivo se respetan.
+Las fotos originales no fueron sobrescritas. Las tres imágenes WebP son versiones con fondos editados mediante la herramienta integrada de imágenes.
